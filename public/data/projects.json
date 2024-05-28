@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Cosmetic Website",
+    "image_url": "/projects/website-cosmetic.png"
+  },
+  {
+    "id": 2,
+    "title": "Admin Cosmetic Website",
+    "image_url": "/projects/admin-website-cosmetic.png"
+  },
+  {
+    "id": 3,
+    "title": "Personal Website for Photographer",
+    "image_url":"/projects/personal-website-photographer.jpg"
+  }
+]

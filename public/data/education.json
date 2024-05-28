@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "academic": "2020 - 2024",
+    "degree": "Bachelor of Computer Science (Certificate)",
+    "school": "Royal University of Phnom Penh",
+    "location": "Phnom Penh, Cambodia"
+  },
+  {
+    "id": 2,
+    "academic": "2017 - 2019",
+    "degree": "Bac II - 2019 (Certificate)",
+    "location": "Bakan, Pursat",
+    "school": "Talo High School"
+  },
+  {
+    "id": 3,
+    "academic": "2013 - 2016",
+    "degree": "Diploma - 2016 (Certificate)",
+    "school": "Talo Secondary School",
+    "location": "Bakan, Pursat"
+  }
+]

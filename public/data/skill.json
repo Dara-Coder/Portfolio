@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "level": "Expert",
+    "image_url": "/images/html.png"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "level": "Expert",
+    "image_url": "/images/css.png"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "level": "Expert",
+    "image_url": "/images/javascript.webp"
+  },
+  {
+    "id": 4,
+    "name": "PHP",
+    "level": "Expert",
+    "image_url": "/images/php.png"
+  },
+  {
+    "id": 5,
+    "name": "Laravel",
+    "level": "Expert",
+    "image_url": "/images/laravel.png"
+  },
+  {
+    "id": 6,
+    "name": "NodeJS",
+    "level": "Mid-Level",
+    "image_url": "/images/nodejs.webp"
+  },
+  {
+    "id": 7,
+    "name": "Express JS",
+    "level": "Mid-Level",
+    "image_url": "/images/expressjs.webp"
+  },
+  {
+    "id": 8,
+    "name": "React JS",
+    "level": "Mid-Level",
+    "image_url": "/images/reactjs.webp"
+  },
+  {
+    "id": 9,
+    "name": "Tailwind",
+    "level": "Mid-Level",
+    "image_url": "/images/tailwind.webp"
+  },
+  {
+    "id": 10,
+    "name": "Bootstrap",
+    "level": "Expert",
+    "image_url": "/images/bootstrap.png"
+  },
+  {
+    "id": 11,
+    "name": "Next JS",
+    "level": "Expert",
+    "image_url": "/images/nextjs.png"
+  },
+  {
+    "id": 12,
+    "name": "Vue JS",
+    "level": "Mid-Level",
+    "image_url": "/images/vuejs.png"
+  },
+  {
+    "id": 13,
+    "name": "Photoshop",
+    "level": "Mid-Level",
+    "image_url": "/images/photoshop.png"
+  },
+  {
+    "id": 14,
+    "name": "Illustrator",
+    "level": "Mid-Level",
+    "image_url": "/images/illustrator.png"
+  },
+  {
+    "id": 15,
+    "name": "Figma",
+    "level": "Mid-Level",
+    "image_url": "/images/figma.png"
+  },
+  {
+    "id": 16,
+    "name": "MySQL",
+    "level": "Expert",
+    "image_url": "/images/mysql.png"
+  },
+  {
+    "id": 17,
+    "name": "Python",
+    "level": "Mid-Level",
+    "image_url": "/images/python.webp"
+  },
+  {
+    "id": 18,
+    "name": "Django",
+    "level": "Mid-Level",
+    "image_url": "/images/django.webp"
+  },
+  {
+    "id": 19,
+    "name": "Linux",
+    "level": "Mid-Level",
+    "image_url": "/images/linux.webp"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "duration": "1+ Years",
+    "title": "Graphics Design",
+    "company": "Freelancer",
+    "location": "Phnom Penh, Cambodia"
+  },
+  {
+    "id": 2,
+    "duration": "2+ Years",
+    "title": "Web Developer",
+    "company": "Vectorasoft Co,.Ltd",
+    "location": "Phnom Penh, Cambodia"
+  },
+  {
+    "id": 3,
+    "duration": "Present",
+    "title": "Full Stack Developer",
+    "company": "Freelancer",
+    "location": "Phnom Penh, Cambodia"
+  }
+]
