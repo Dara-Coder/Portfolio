@@ -38,7 +38,7 @@ onBeforeMount(() => {
           <div
             class="transition ease-in-out delay-300 duration-300 hidden w-full h-full absolute bottom-0 p-3 bg-gray-600 opacity-70 group-hover:flex group-hover:items-center group-hover:justify-center"
           >
-            <p class="text-white font-semibold text-xl capitalize">{{ pr.title }}</p>
+            <p class="text-white font-semibold text-xl capitalize text-center">{{ pr.title }}</p>
           </div>
         </div>
       </div>
