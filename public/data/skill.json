@@ -112,5 +112,11 @@
     "name": "Linux",
     "level": "Mid-Level",
     "image_url": "/images/linux.webp"
+  },
+  {
+    "id": 20,
+    "name": "jQuery",
+    "level": "Expert",
+    "image_url": "/images/jquery.png"
   }
 ]
