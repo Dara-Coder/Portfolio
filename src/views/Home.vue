@@ -103,7 +103,7 @@ setInterval(() => {
           <button
             type="button"
             @click="openSay = !openSay"
-            class="flex items-center gap-2 py-2 px-8 bg-transparent border border-solid border-white rounded-3xl hover:bg-amber-500 hover:border-0"
+            class="hidden items-center gap-2 py-2 px-8 bg-transparent border border-solid border-white rounded-3xl hover:bg-amber-500 hover:border-0"
           >
             <IconSend></IconSend>
             <span class="font-semibold text-white">Say Hello!</span>
