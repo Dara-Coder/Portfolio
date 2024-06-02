@@ -7,7 +7,7 @@ const handleSubmit = (e) => {
   }
   const a = document.createElement('a')
   a.href =
-    "https://mail.google.com/mail/?extsrc=mailto&url=mailto:bouychan.dara.info@gmail.com?su=Hello! Dara, I'm from " +
+    "https://mail.google.com/mail/?extsrc=mailto&url=mailto:bouychan.dara.info@gmail.com?subject=Hello! Dara, I'm from " +
     p.name +
     '&body=' +
     p.message +
