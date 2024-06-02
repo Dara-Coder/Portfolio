@@ -33,7 +33,7 @@ const open = ref(false)
             <a href="https://github.com/dara-coder" target="_blank">
               <IconGithub></IconGithub>
             </a>
-            <a href="https://www.facebook.com/dara.bouy.94" target="_blank">
+            <a href="https://www.facebook.com/dara.bouy.99" target="_blank">
               <Facebook></Facebook>
             </a>
             <a href="https://t.me/BOUY_DARA" target="_blank">
