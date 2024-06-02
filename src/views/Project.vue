@@ -30,7 +30,7 @@ onBeforeMount(() => {
         <div
           v-for="pr in projects"
           :key="pr.id"
-          class="shadow w-72 h-72 rounded-2xl cursor-pointer relative overflow-hidden group"
+          class="shadow w-72 h-72 rounded-2xl cursor-pointer relative overflow-hidden group border border-slate-500 border-dotted"
         >
           <div class="w-full h-full">
             <img :src="pr.image_url" class="w-full h-full object-cover" :alt="pr.title" />

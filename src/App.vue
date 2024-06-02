@@ -69,10 +69,14 @@ document.addEventListener('mouseup', (e) => {
 </script>
 
 <template>
-  <header class="bg-white p-2 shadow-xl mb-1 sticky top-0 z-10">
+  <header class="bg-white p-2 shadow-xl mb-1 sticky top-0 z-10 min-h-[65px]">
     <div class="flex justify-between p-2 relative">
-      <div class="uppercase text-2xl font-bold text-orange-400">
-        {{ name || '' }}
+      <div class="w-full h-full relative">
+        <img
+          class="w-[63px] h-[63px] object-scale-down absolute left-[10%] -top-[15px]"
+          src="/images/logo.png"
+          alt="user"
+        />
       </div>
       <div @click="toggleMenu" class="flex justify-center items-center cursor-pointer sm:hidden">
         <Hambergar></Hambergar>

@@ -40,12 +40,7 @@ setInterval(() => {
       </div>
       <div class="flex justify-center items-center flex-col gap-4 max-w-md">
         <div class="w-40 rounded-full overflow-hidden">
-          <img
-            class="w-full h-100 object-scale-down"
-            src="/images/user.jpg"
-            alt="user"
-            ref="profile"
-          />
+          <img class="w-full object-scale-down" src="/images/user.jpg" alt="user" ref="profile" />
         </div>
         <div class="flex flex-col gap-1">
           <p class="text-3xl font-bold text-white text-center">Hi, This is BOUY Chandara</p>
