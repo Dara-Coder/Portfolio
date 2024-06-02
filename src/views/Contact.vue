@@ -11,7 +11,7 @@ const handleSubmit = (e) => {
     p.name +
     '&body=' +
     p.message +
-    ' \n\r' +
+    ' Thank you from ' +
     p.email
   a.target = '_blank'
   a.click()
