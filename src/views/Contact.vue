@@ -14,6 +14,7 @@ const handleSubmit = (e) => {
     ' Thank you from ' +
     p.email
   a.target = '_blank'
+  console.log(a)
   a.click()
 }
 
