@@ -7,12 +7,13 @@ const handleSubmit = (e) => {
   }
   const a = document.createElement('a')
   a.href =
-    "https://mail.google.com/mail/?extsrc=mailto&url=mailto:bouychan.dara.info@gmail.com?subject=Hello! Dara, I'm from " +
+    "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&?su=Hello! Dara, I'm from " +
     p.name +
     '&body=' +
     p.message +
     ' Thank you from ' +
-    p.email
+    p.email +
+    '&to=bouychan.dara.info@gmail.com'
   a.target = '_blank'
   console.log(a)
   a.click()
