@@ -83,7 +83,7 @@ setInterval(() => {
                 class="flex items-center gap-2 cursor-pointer"
               >
                 <Telegram></Telegram>
-                <p class="font-semibold text-md uppercase">Bouy Chandara</p>
+                <p class="font-semibold text-md capitalize">Bouy Chandara</p>
               </a>
               <a
                 href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to:bouychan.dara.info@gmail.com"
