@@ -15,7 +15,6 @@ const handleSubmit = (e) => {
     p.email +
     '&to=bouychan.dara.info@gmail.com'
   a.target = '_blank'
-  console.log(a)
   a.click()
 }
 
