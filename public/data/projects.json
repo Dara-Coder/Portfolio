@@ -12,11 +12,16 @@
   {
     "id": 3,
     "title": "Personal Website for Photographer",
-    "image_url":"/projects/personal-website-photographer.jpg"
+    "image_url": "/projects/personal-website-photographer.jpg"
   },
   {
     "id": 4,
     "title": "Cosmetic Online Store",
     "image_url": "/projects/cosmetic-online.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Restaurants Website",
+    "image_url": "/projects/restaurants-website.png"
   }
 ]
