@@ -30,7 +30,7 @@ const open = ref(false)
             to continuous learning in the ever-evolving world of web development.
           </p>
           <div class="flex gap-3">
-            <a href="https://github.com/dara-coder" target="_blank">
+            <a href="https://github.com/bouychandara" target="_blank">
               <IconGithub></IconGithub>
             </a>
             <a href="https://www.facebook.com/dara.bouy.99" target="_blank">

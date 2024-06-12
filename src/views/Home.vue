@@ -154,7 +154,7 @@ setInterval(() => {
       <p class="font-semibold text-lg text-slate-100">Design and Developed by BOUY Chandara</p>
     </div>
     <div class="w-fit h-full flex items-center gap-3 px-3 py-5">
-      <a href="https://github.com/dara-coder" target="_blank">
+      <a href="https://github.com/bouychandara" target="_blank">
         <IconGithub></IconGithub>
       </a>
       <a href="https://www.facebook.com/dara.bouy.99" target="_blank">
