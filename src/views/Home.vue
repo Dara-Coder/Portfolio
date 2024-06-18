@@ -1,7 +1,6 @@
 <script setup>
 import { ref } from 'vue'
 import DotPattern from '@/components/svgs/DotPattern.vue'
-import IconSend from '@/components/icons/IconSend.vue'
 import IconGithub from '@/components/icons/IconGithub.vue'
 import Facebook from '@/components/svgs/Facebook.vue'
 import Telegram from '@/components/svgs/Telegram.vue'
@@ -14,7 +13,6 @@ import Skill from '@/views/Skill.vue'
 import Modal from '@/components/Modal.vue'
 
 const openWork = ref(false)
-const openSay = ref(false)
 const profile = ref(null)
 
 let number = 0
@@ -78,58 +76,12 @@ setInterval(() => {
                 <p class="font-semibold text-md">Bouy Chandara</p>
               </a>
               <a
-                href="https://t.me/BOUY_DARA"
+                href="https://t.me/bouychandara"
                 target="_blank"
                 class="flex items-center gap-2 cursor-pointer"
               >
                 <Telegram></Telegram>
                 <p class="font-semibold text-md capitalize">Bouy Chandara</p>
-              </a>
-              <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to:bouychan.dara.info@gmail.com"
-                target="_blank"
-                class="flex items-center gap-2 cursor-pointer"
-              >
-                <IconGmail></IconGmail>
-                <p class="font-semibold text-md">bouychan.dara.info@gmail.com</p>
-              </a>
-            </div>
-          </Modal>
-          <button
-            type="button"
-            @click="openSay = !openSay"
-            class="hidden items-center gap-2 py-2 px-8 bg-transparent border border-solid border-white rounded-3xl hover:bg-amber-500 hover:border-0"
-          >
-            <IconSend></IconSend>
-            <span class="font-semibold text-white">Say Hello!</span>
-          </button>
-          <Modal :isOpen="openSay" title="Say Hello! By">
-            <div
-              class="w-full p-3 flex flex-wrap justify-start flex-col sm:justify-evenly sm:flex-row gap-3"
-            >
-              <a
-                href="tel:+855888800908"
-                target="_blank"
-                class="flex items-center gap-2 cursor-pointer"
-              >
-                <IconPhone></IconPhone>
-                <p class="font-semibold text-md">(+855) 888 800 908</p>
-              </a>
-              <a
-                href="https://www.facebook.com/dara.bouy.99"
-                target="_blank"
-                class="flex items-center gap-2 cursor-pointer"
-              >
-                <Facebook></Facebook>
-                <p class="font-semibold text-md">Dara Bouy</p>
-              </a>
-              <a
-                href="https://t.me/BOUY_DARA"
-                target="_blank"
-                class="flex items-center gap-2 cursor-pointer"
-              >
-                <Telegram></Telegram>
-                <p class="font-semibold text-md uppercase">bouy chan dara</p>
               </a>
               <a
                 href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to:bouychan.dara.info@gmail.com"
@@ -160,7 +112,7 @@ setInterval(() => {
       <a href="https://www.facebook.com/dara.bouy.99" target="_blank">
         <Facebook></Facebook>
       </a>
-      <a href="https://t.me/BOUY_DARA" target="_blank">
+      <a href="https://t.me/bouychandara" target="_blank">
         <Telegram></Telegram>
       </a>
       <a

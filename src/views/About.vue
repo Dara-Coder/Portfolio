@@ -1,14 +1,9 @@
 <script setup>
-import { ref } from 'vue'
 import WhiteBackground from '@/components/svgs/WhiteBackground.vue'
 import IconGithub from '@/components/icons/IconGithub.vue'
 import Facebook from '@/components/svgs/Facebook.vue'
 import Telegram from '@/components/svgs/Telegram.vue'
 import IconGmail from '@/components/icons/IconGmail.vue'
-import curriculumVitae from '@/components/curriculumVitae.vue'
-import Modal from '@/components/Modal.vue'
-
-const open = ref(false)
 </script>
 
 <template>
@@ -36,7 +31,7 @@ const open = ref(false)
             <a href="https://www.facebook.com/dara.bouy.99" target="_blank">
               <Facebook></Facebook>
             </a>
-            <a href="https://t.me/BOUY_DARA" target="_blank">
+            <a href="https://t.me/bouychandara" target="_blank">
               <Telegram></Telegram>
             </a>
             <a
@@ -45,14 +40,6 @@ const open = ref(false)
             >
               <IconGmail></IconGmail>
             </a>
-          </div>
-          <div class="mt-4 hidden">
-            <button @click="open = !open" type="button" class="p-3 bg-orange-500 rounded-3xl">
-              <span class="text-white font-semibold">Preview CV</span>
-            </button>
-            <Modal :isOpen="open" title="Preview Curriculum Vitae">
-              <curriculumVitae></curriculumVitae>
-            </Modal>
           </div>
         </div>
       </div>
